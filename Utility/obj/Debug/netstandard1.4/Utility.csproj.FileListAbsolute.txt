@@ -1,0 +1,6 @@
+/Users/vknez/Documents/Programming/TaskManager/Utility/bin/Debug/netstandard1.4/Utility.deps.json
+/Users/vknez/Documents/Programming/TaskManager/Utility/bin/Debug/netstandard1.4/Utility.dll
+/Users/vknez/Documents/Programming/TaskManager/Utility/bin/Debug/netstandard1.4/Utility.pdb
+/Users/vknez/Documents/Programming/TaskManager/Utility/obj/Debug/netstandard1.4/Utility.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/TaskManager/Utility/obj/Debug/netstandard1.4/Utility.dll
+/Users/vknez/Documents/Programming/TaskManager/Utility/obj/Debug/netstandard1.4/Utility.pdb

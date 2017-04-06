@@ -1,0 +1,11 @@
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/Test.deps.json
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/Test.runtimeconfig.json
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/Test.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/Test.dll
+/Users/vknez/Documents/Programming/TaskManager/Test/bin/Debug/netcoreapp1.1/Test.pdb
+/Users/vknez/Documents/Programming/TaskManager/Test/obj/Debug/netcoreapp1.1/Test.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/TaskManager/Test/obj/Debug/netcoreapp1.1/Test.dll
+/Users/vknez/Documents/Programming/TaskManager/Test/obj/Debug/netcoreapp1.1/Test.pdb

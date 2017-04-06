@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/TaskManager/WebUi/bin/Debug/netcoreapp1.1/WebUi.deps.json
+/Users/vknez/Documents/Programming/TaskManager/WebUi/bin/Debug/netcoreapp1.1/WebUi.runtimeconfig.json
+/Users/vknez/Documents/Programming/TaskManager/WebUi/bin/Debug/netcoreapp1.1/WebUi.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/TaskManager/WebUi/bin/Debug/netcoreapp1.1/WebUi.dll
+/Users/vknez/Documents/Programming/TaskManager/WebUi/bin/Debug/netcoreapp1.1/WebUi.pdb
+/Users/vknez/Documents/Programming/TaskManager/WebUi/obj/Debug/netcoreapp1.1/WebUi.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/TaskManager/WebUi/obj/Debug/netcoreapp1.1/WebUi.dll
+/Users/vknez/Documents/Programming/TaskManager/WebUi/obj/Debug/netcoreapp1.1/WebUi.pdb
+/Users/vknez/Documents/Programming/TaskManager/WebUi/bin/Debug/netcoreapp1.1/Utility.dll
+/Users/vknez/Documents/Programming/TaskManager/WebUi/bin/Debug/netcoreapp1.1/Utility.pdb

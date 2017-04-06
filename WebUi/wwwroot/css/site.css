@@ -1,0 +1,25 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.todo-list {
+    width: 500px;
+}
+
+input[type="text"] {
+    width: 100%;
+}
+
+.btn {
+    padding: 5px;
+}
+
+.tasks {
+    padding-top: 10px;
+}
